@@ -1,0 +1,77 @@
+export default [{
+  name: "2001",
+  field: "tc_loss_ha_2001",
+  color: "rgb(34,139,34)"
+}, {
+  name: "2002",
+  field: "tc_loss_ha_2002",
+  color: "rgb(34,139,34)"
+}, {
+  name: "2003",
+  field: "tc_loss_ha_2003",
+  color: "rgb(34,139,34)"
+}, {
+  name: "2004",
+  field: "tc_loss_ha_2004",
+  color: "rgb(34,139,34)"
+}, {
+  name: "2005",
+  field: "tc_loss_ha_2005",
+  color: "rgb(34,139,34)"
+}, {
+  name: "2006",
+  field: "tc_loss_ha_2006",
+  color: "rgb(34,139,34)"
+}, {
+  name: "2007",
+  field: "tc_loss_ha_2007",
+  color: "rgb(34,139,34)"
+}, {
+  name: "2008",
+  field: "tc_loss_ha_2008",
+  color: "rgb(34,139,34)"
+}, {
+  name: "2009",
+  field: "tc_loss_ha_2009",
+  color: "rgb(34,139,34)"
+}, {
+  name: "2010",
+  field: "tc_loss_ha_2010",
+  color: "rgb(34,139,34)"
+}, {
+  name: "2011",
+  field: "tc_loss_ha_2011",
+  color: "rgb(34,139,34)"
+}, {
+  name: "2012",
+  field: "tc_loss_ha_2012",
+  color: "rgb(34,139,34)"
+}, {
+  name: "2013",
+  field: "tc_loss_ha_2013",
+  color: "rgb(34,139,34)"
+}, {
+  name: "2014",
+  field: "tc_loss_ha_2014",
+  color: "rgb(34,139,34)"
+}, {
+  name: "2015",
+  field: "tc_loss_ha_2015",
+  color: "rgb(34,139,34)"
+}, {
+  name: "2016",
+  field: "tc_loss_ha_2016",
+  color: "rgb(34,139,34)"
+}, {
+  name: "2017",
+  field: "tc_loss_ha_2017",
+  color: "rgb(34,139,34)"
+}, {
+  name: "2018",
+  field: "tc_loss_ha_2018",
+  color: "rgb(34,139,34)"
+}, {
+  name: "2019",
+  field: "tc_loss_ha_2019",
+  color: "rgb(34,139,34)"
+}];
